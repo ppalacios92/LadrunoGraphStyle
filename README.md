@@ -16,8 +16,8 @@ git clone https://github.com/ppalacios92/LadrunoGraphStyle.git
 
 Use a style in your Python scripts or Jupyter Notebooks:
 ```python
-import matplotlib.pyplot as plt
-plt.style.use('path_to_style_file.mplstyle')
+from LadrunoGraphStyle import set_default_plot_params
+set_default_plot_params()
 ```
 
 ## Authors
