@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/LadrunoGraphStyle/__init__.py
+src/LadrunoGraphStyle.egg-info/PKG-INFO
+src/LadrunoGraphStyle.egg-info/SOURCES.txt
+src/LadrunoGraphStyle.egg-info/dependency_links.txt
+src/LadrunoGraphStyle.egg-info/requires.txt
+src/LadrunoGraphStyle.egg-info/top_level.txt
