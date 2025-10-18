@@ -40,10 +40,10 @@ def set_default_plot_params():
 
     # Combine palettes and apply
     full_palette = main_colors + extended_colors
-    plt.rcParams['axes.prop_cycle'] = cycler('color', full_palette)
+    # plt.rcParams['axes.prop_cycle'] = cycler('color', full_palette)
 
     # Font
-    plt.rcParams['font.family'] = 'Archivo Narrow'
+    plt.rcParams['font.family'] = 'Arial'
     plt.rcParams['font.size'] = 10
     plt.rcParams['font.stretch'] = 'condensed'
 
