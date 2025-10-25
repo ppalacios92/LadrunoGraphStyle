@@ -12,6 +12,10 @@
 Clone this repository:
 ```bash
 git clone https://github.com/ppalacios92/LadrunoGraphStyle.git
+
+pip install --upgrade pip
+pip install -e .
+
 ```
 
 Use a style in your Python scripts or Jupyter Notebooks:
